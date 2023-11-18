@@ -1,0 +1,26 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 20px;
+}
+
+p {
+  color: rgb(241, 241, 111);
+  font-size: larger;
+  font-style: italic;
+  margin: 25;
+  padding: 25; }
+
+.inner-box{ 
+  background-color: RED;
+  margin-bottom: 0%;
+}
+.white-text{
+  color:  white;
+  font-size: larger;
+}
+
+#outer-box{
+  background-color: beige;
+}
